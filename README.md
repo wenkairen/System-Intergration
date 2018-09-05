@@ -1,6 +1,5 @@
 ## Capstone Project - System Integration
 
-### Team name: Rap God
 ### Team Members:
  - Wenkai Ren (Team Lead) wr2291@columbia.edu
  - Zeyuan Jin  zj2212@columbia.edu
